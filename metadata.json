@@ -1,0 +1,6 @@
+{
+  "name": "Microdrama AI Studio",
+  "description": "Generator Naskah, Visual Storyboard & Master Prompt Terpadu untuk Produksi Microdrama Vertikal & Layar Lebar (1–10 Menit).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
